@@ -43,3 +43,6 @@ A practical project that demonstrates step-by-step how to build an API for manag
     uvicorn main:app --reload
 
 
+## 📺 **Check Out My YouTube Channel**  
+[![Code With Mezo YouTube Channel](https://img.youtube.com/vi/bhwGIzSjq7U/0.jpg)](https://youtube.com/watch?v=bhwGIzSjq7U&t=70s)
+
